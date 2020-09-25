@@ -1,2 +1,1 @@
-# DevilTest
-this is a test for game "Devil" on visual studio C#
+Hello Universe! 25/9/2020 8:27:23 AM
